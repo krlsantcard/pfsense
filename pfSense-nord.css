@@ -84,6 +84,11 @@ table.sortable-theme-bootstrap {
     border-top: 2px solid #616161;
 }
 
+/* Tweak Gateway Status green color */
+.table>tbody>tr>td.bg-success {
+    background-color: #96ed86;
+{
+
 .dropdown-menu {
     background-color: #434c5e;
     /*opacity: .93;*/
